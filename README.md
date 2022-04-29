@@ -9,7 +9,7 @@
 
 🌱 In the world of technology I started in 2010, currently fully focused on web development since 2017 as a freelancer, I have more experience on the frontend and Wordpress side...
 
-◉ I am passionate about technology and knowledge. I have directed all this energy to the world of programming. I started in web development since 2017. Especially focused on the frontend side, working with HTML, CSS, JAVASCRIPT and Technologies such as bootstrap, php and node.js.
+◉ I am passionate about technology and knowledge. I have directed all this energy to the world of programming. I started in web development since 2017. Especially focused on the frontend side, working with HTML, CSS, JAVASCRIPT and Technologies such as Bootstrap, React and Node.js.
 
 ◉ For local clients, I especially work on projects with Wordpress because as a freelancer, an additional plus to my services is the fact that I teach them step by step how to manage their own web pages, landing pages or blogs.
 
