@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @MiguelRamirezMejia
-- 👀 I’m interested in in learning and putting into practice my study in software development
-- 🌱 I’m currently learning software development. 
-- 💞️ I’m looking to collaborate in different projects initially referring to the frontend
+Hola gracias por visitar mi perfil, te hago un breve resumen:
+En el mundo de la tecnología inicié desde el 2010, actualmente totalmente enfocado en el desarrollo web desde el 2017 como freelancer, tengo mayor experiencia en el lado del frontend y Wordpress...
+
+◉Soy un apasionado de la tecnología y el conocimiento. Toda esta energía la he direccionado al mundo de la programación. Inicié en el desarrollo web desde el 2017. especialmente enfocado en el lado del frontend, trabajando HTML, CSS, JAVASCRIPT y Tecnologías como bootstrap, php y node.js.
+
+◉En clientes locales, los proyectos especialmente los trabajo con Wordpress porque como freelancer un plus adicional a mis servicios es el echo de que les enseño el paso a paso para poder administrar ellos mismos su páginas web, landing pages o blogs.
+
+◉Trabajo con sistemas operativos como Linux, Mac y Windows. 
+
+◉Me gusta trabajar en equipo, buscar soluciones a los problemas y estar en constante aprendizaje y
+actualización de conocimientos. 
+
+◉Trabajo sin ningún inconveniente bajo presión. 
+
+◉Actualmente estudio desarrollo de software en Holberton School.
 
 
 
