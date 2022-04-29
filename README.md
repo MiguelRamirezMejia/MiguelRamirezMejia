@@ -14,7 +14,7 @@ actualización de conocimientos.
 
 ◉Actualmente estudio desarrollo de software en Holberton School.
 
-
+____
 
 
 
