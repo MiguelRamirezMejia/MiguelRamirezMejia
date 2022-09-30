@@ -11,8 +11,6 @@
 
 ◉ For local clients, I especially work on projects with Wordpress because as a freelancer, an additional plus to my services is the fact that I teach them step by step how to manage their own web pages, landing pages or blogs.
 
-◉ I work with operating systems such as Linux, Mac and Windows.
-
 ◉ I like to work in a team, find solutions to problems and be constantly learning and updating knowledge.
 
 ◉ Work without any inconvenience under pressure.
