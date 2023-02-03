@@ -7,7 +7,7 @@
 
 
 
-🌱 I am passionate about technology and knowledge. All this energy directed her to the world of programming. I started in web development since 2017. Specially focused on the frontend part, working with HTML, CSS, JAVASCRIPT and currently studying Technologies like React.js.
+🌱 I am passionate about technology and knowledge. All this energy directed her to the world of programming. I started in web development since 2017. Specially focused on the frontend part, working with HTML, CSS, JAVASCRIPT and currently studying Technologies like React.js, PHP and Laravel.
 
 ◉ For local clients, I especially work on projects with Wordpress because as a freelancer, an additional plus to my services is the fact that I teach them step by step how to manage their own web pages, landing pages or blogs.
 
