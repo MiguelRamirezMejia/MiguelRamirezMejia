@@ -1,21 +1,21 @@
-<h1 align="center">Hola 👋, soy Miguel Ángel Ramírez</h1>
-<h3 align="center">Desarrollador Full Stack y especialista en ciberseguridad de aplicaciones</h3>
-<p align="center">Construyo software con Laravel y Node.js, y lo audito con mentalidad de atacante.</p>
+<h1 align="center">Hi 👋, I'm Miguel Ángel Ramírez</h1>
+<h3 align="center">Full Stack Developer & Application Security Specialist</h3>
+<p align="center">I build software with Laravel and Node.js, and audit it with an attacker's mindset.</p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-Desde 2017 construyo software para clientes y empresas. Empecé con WordPress y frontend, evolucioné al desarrollo full stack con **Laravel, Vue.js y Node.js**, y en 2024 incorporé la **ciberseguridad** a mi práctica. Hoy combino ambas: desarrollo aplicaciones y las evalúo para encontrar vulnerabilidades antes de que se conviertan en incidentes.
+I've been building software for clients and companies since 2017. I started with WordPress and frontend work, grew into full stack development with **Laravel, Vue.js and Node.js**, and added **cybersecurity** to my practice in 2024. Today I combine both: I develop applications and assess them to find vulnerabilities before they become incidents.
 
-- 🔐 **Ciberseguridad:** pentesting web, code review de aplicaciones Laravel y Node.js, control de acceso (IDOR/BOLA), autenticación, APIs y trazabilidad.
-- 🧩 **Desarrollo:** ERP para empresas de telecomunicaciones (ISP) con Laravel y Vue.js, APIs, automatización con Python y webhooks.
-- 🛠️ **Infraestructura:** Linux, Docker, Git y despliegue de proyectos completos.
-- 🛡️ **Consultoría independiente** a través de [ParceWeb](https://parceweb.com): auditoría de código y pruebas de penetración para pymes y startups.
-- 🎓 Formación en Ethical Hacking (Cisco), SENA y MinTIC. Estudiante de Ingeniería de Sistemas en UNISARC.
-- 💡 Mi enfoque: la seguridad no es una capa que se agrega al final, es una decisión de diseño.
+- 🔐 **Security:** web pentesting, code review for Laravel and Node.js apps, access control (IDOR/BOLA), authentication, APIs and audit trails.
+- 🧩 **Development:** ERP for telecom (ISP) companies with Laravel and Vue.js, APIs, and automation with Python and webhooks.
+- 🛠️ **Infrastructure:** Linux, Docker, Git and full project deployment.
+- 🛡️ **Independent consulting** through [ParceWeb](https://parceweb.com): code audits and penetration testing for SMBs and startups.
+- 🎓 Ethical Hacking training (Cisco), SENA and MinTIC. Studying Systems Engineering at UNISARC.
+- 💡 My approach: security is not a layer you add at the end, it's a design decision.
 
-### 🧰 Tecnologías
+### 🧰 Tech stack
 
 <p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
@@ -36,10 +36,10 @@ Desde 2017 construyo software para clientes y empresas. Empecé con WordPress y 
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010%20%7C%20API%20Top%2010-5b2a86?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-pentesting-5b2a86?style=flat-square)
 
-### 📫 Contacto
+### 📫 Contact
 
-- 🌐 Sitio: [parceweb.com](https://parceweb.com)
-- ✉️ Correo: **miguel@parceweb.com**
+- 🌐 Website: [parceweb.com](https://parceweb.com) (Spanish)
+- ✉️ Email: **miguel@parceweb.com**
 - 💼 LinkedIn: [miguelangelramirezmejia](https://www.linkedin.com/in/miguelangelramirezmejia/)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelramirezmejia&show_icons=true&locale=es&layout=compact" alt="Lenguajes principales de miguelramirezmejia" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelramirezmejia&show_icons=true&locale=en&layout=compact" alt="Top languages of miguelramirezmejia" /></p>
